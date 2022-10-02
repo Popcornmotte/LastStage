@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/slidingdoor.wav-ce4d4b9c52190a2b4ded63d5697a170c.sample"
+
+[deps]
+
+source_file="res://Sounds/slidingdoor.wav"
+dest_files=[ "res://.import/slidingdoor.wav-ce4d4b9c52190a2b4ded63d5697a170c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
